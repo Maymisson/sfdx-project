@@ -1,4 +1,4 @@
-<img src="./img/cielo.png" alt="cielo" align="right" width="200"/>
+<img src="../img/cielo.png" alt="cielo" align="right" width="100"/>
 
 ## # Squad: *Logistica & Atendimento*
 
